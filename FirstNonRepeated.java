@@ -14,7 +14,7 @@ public class FirstNonRepeated {
         }
     }
 }
-
+// how do you find the first non-repeated character in a string ?
 /***
  * import java.util.HashMap;
  * 
